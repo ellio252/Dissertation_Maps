@@ -1,4 +1,7 @@
- <!-- Leaflet.js -->
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Leaflet.js -->
     <title>To Moscow</title>
   
   <div id="mapid"></div>
